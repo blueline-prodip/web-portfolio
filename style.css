@@ -11,8 +11,8 @@
  p{
      color: rgb(108, 108, 112);
  }
- .name-highlight{
-     color: orangered;
+ .orange-highlight{
+     color: rgb(236, 80, 24);
  }
  .half-width{
   width: 40%; 
